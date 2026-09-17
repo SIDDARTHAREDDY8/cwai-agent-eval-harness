@@ -1,0 +1,21 @@
+CONTACT ROUTE: UNVERIFIED personal channel. Founder David Edelman is confirmed
+(Founder, Catalyst·Wayfare — 2026 OUTCOME2030 announcement; Catalyst·Wayfare
+bio PDF), but no verifiable personal email or X/LinkedIn profile URL was found
+on official pages. The official company contact points are:
+  1. Site contact form: https://catalystwayfare.ai/contact ("Begin a
+     conversation — Send us a paragraph. Hear back in two business days.")
+  2. Their HN hiring thread: https://news.ycombinator.com/item?id=49650855
+     (posted by their own HN account `catalystwayfare`; the founder team
+     reads it — they reply to applicants there).
+Forbidden inboxes NOT used: talent@cwai.co, talent+hn@cwai.co.
+
+DO NOT SEND without user approval. Ready-to-paste texts below.
+
+=== OPTION A: contact-form paragraph ===
+Your JD says evals are first-class artifacts and trusted agents live behind audit trails. I built a small working version: a deterministic eval harness for multi-agent orchestration with schema checks, citation grounding, numeric consistency, retry recovery, and a JSONL audit trail. It catches bad retrieval, invented citations, and silent tool failures: https://github.com/SIDDARTHAREDDY8/cwai-agent-eval-harness. I'm Siddartha Reddy Chinthala, 4 YOE shipping production AI (PR merged into Microsoft onnxruntime), no sponsorship needed through June 2029. Worth 15 minutes?
+
+=== OPTION B: reply on their HN hiring thread ===
+Saw you're hiring for the orchestration/evals role and that evals are first-class artifacts for you. I built a small deterministic eval harness for multi-agent workflows (schema, citation grounding, numeric consistency, retry recovery, audit trail) as a demo: https://github.com/SIDDARTHAREDDY8/cwai-agent-eval-harness. Siddartha Reddy Chinthala, 4 YOE production AI, PR merged into Microsoft onnxruntime, no sponsorship needed through June 2029. Happy to walk through it in 15 min.
+
+Repo:  https://github.com/SIDDARTHAREDDY8/cwai-agent-eval-harness
+Proof: PR merged into Microsoft onnxruntime (Tianlei Wu, 2026-09-14).
